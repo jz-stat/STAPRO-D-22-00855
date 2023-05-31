@@ -16,7 +16,7 @@ generalized.entropy <- function(sample_freq, order){
 }
 
 
-### Examples 1 and 2
+### Plots for Examples 1 and 2
 
 # the three distributions have the same H. p1 and p2 GSE are similar when order is more than 1
 
