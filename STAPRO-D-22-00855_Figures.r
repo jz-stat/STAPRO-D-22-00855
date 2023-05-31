@@ -1,7 +1,5 @@
 ## packages are needed for the plots
-library(ggplot2)
-library(ggrepel)
-library(hrbrthemes)
+library(EntropicStatistics)
 
 
 # function of gse. input are sample frequency counts and order(s) of the gse
